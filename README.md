@@ -1,4 +1,4 @@
-# haust-dex-tokenlist
+# ducatus-aa-dex-tokenlist
 
 ### Whitelisting instructions
 
