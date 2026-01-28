@@ -1,6 +1,6 @@
 {
-  "name": "CratD2C DEX Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/crat-dex-tokenlist/master/assets/chains/crat_testnet/0x0000000000000000000000000000000000000000/logo.png",
+  "name": "Ducatus AA+ DEX Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x0000000000000000000000000000000000000000/logo.png",
   "keywords": [
     "audited",
     "verified",
@@ -9,34 +9,66 @@
   "tags": {
     "type": {
       "name": "tokenlist",
-      "description": "Official CratD2C DEX token list"
+      "description": "Official Ducatus AA+ DEX token list"
     }
   },
   "timestamp": "2024-11-14T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 65349,
-      "address": "0xe5AB6881Fe3D22eCc213E5a56A9523a8576bD8D7",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/crat-dex-tokenlist/master/assets/chains/crat_testnet/0xe5AB6881Fe3D22eCc213E5a56A9523a8576bD8D7/logo.png"
+      "chainId": 26482,
+      "address": "0xe066196C3496c8A38BB9c488A7A240C840b71595",
+      "symbol": "DUC",
+      "name": "DUC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0xe066196C3496c8A38BB9c488A7A240C840b71595/logo.png",
     },
     {
-      "chainId": 65349,
-      "address": "0x04a1c02C96428Bc9626f0EA6e52588FDaa4006bb",
-      "symbol": "SOL",
-      "name": "Solana",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/crat-dex-tokenlist/master/assets/chains/crat_testnet/0x04a1c02C96428Bc9626f0EA6e52588FDaa4006bb/logo.png"
+      "chainId": 26482,
+      "address": "0x314e5d40a123F4Efdb096bB716767C905A7DcA97",
+      "symbol": "SHres",
+      "name": "Spirit Hills Reserve",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x314e5d40a123F4Efdb096bB716767C905A7DcA97/logo.png"
     },
     {
-      "chainId": 65349,
-      "address": "0x239c9FD1636040836Bc7c9A5874a2329b6F38822",
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "chainId": 26482,
+      "address": "0xE95C65EB55D11D023A38296A0AaF658bAaB4B95e",
+      "symbol": "SHBT",
+      "name": "Spirit Hills Bali Token",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0xE95C65EB55D11D023A38296A0AaF658bAaB4B95e/logo.png"
+    },
+    {
+      "chainId": 26482,
+      "address": "0x1c2d444E9828Ce1A01FDf506008207480b9475ED",
+      "symbol": "X-GEN",
+      "name": "X GEN TOKEN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/crat-dex-tokenlist/master/assets/chains/crat_testnet/0x239c9FD1636040836Bc7c9A5874a2329b6F38822/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x1c2d444E9828Ce1A01FDf506008207480b9475ED/logo.png"
+    },
+    {
+      "chainId": 26482,
+      "address": "0x4272F8E9A2eEA6b853d40159Db33D662E5ca48dD",
+      "symbol": "AA+",
+      "name": "AA+",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x4272F8E9A2eEA6b853d40159Db33D662E5ca48dD/logo.png"
+    },
+    {
+      "chainId": 26482,
+      "address": "0x1405e2445C01361D4FbDf1DCBf7A9bd07810B530",
+      "symbol": "Bullion",
+      "name": "Bullion",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x1405e2445C01361D4FbDf1DCBf7A9bd07810B530/logo.png"
+    },
+    {
+      "chainId": 26482,
+      "address": "0x6333bAD1632ae2a78CfC4aD4AEc6C99B1b54CdBD",
+      "symbol": "Gold MV",
+      "name": "Gold MV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x6333bAD1632ae2a78CfC4aD4AEc6C99B1b54CdBD/logo.png"
     }
   ],
   "version": {
