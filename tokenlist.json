@@ -69,11 +69,67 @@
       "name": "Gold MV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x6333bAD1632ae2a78CfC4aD4AEc6C99B1b54CdBD/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0xC98983b0E68507EFebA531E4714419cd271114a1",
+      "symbol": "DUC",
+      "name": "DUC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xC98983b0E68507EFebA531E4714419cd271114a1/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0x33a5f694bf84A9d003141956E7E20b95410bDf8d",
+      "symbol": "SHres",
+      "name": "Spirit Hills Reserve",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0x33a5f694bf84A9d003141956E7E20b95410bDf8d/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0xe8F622F26461FC21EC06eC2158B82500e9C77Dff",
+      "symbol": "SHBT",
+      "name": "Spirit Hills Bali Token",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xe8F622F26461FC21EC06eC2158B82500e9C77Dff/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0x4860903C09F330613A2A3A3e05587176d6DF6B23",
+      "symbol": "X-GEN",
+      "name": "X GEN TOKEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0x4860903C09F330613A2A3A3e05587176d6DF6B23/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0x986083CD47dBBC931585D2FE2330FD29B3e849b0",
+      "symbol": "AA+",
+      "name": "AA+",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0x986083CD47dBBC931585D2FE2330FD29B3e849b0/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0xD0A83Ff11CB82798933522dC8B7dB89d05995956",
+      "symbol": "Bullion",
+      "name": "Bullion",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xD0A83Ff11CB82798933522dC8B7dB89d05995956/logo.png"
+    },
+    {
+      "chainId": 26483,
+      "address": "0xcDdd562C0cF8c262AD8A5c1A476cdBBE114FcC28",
+      "symbol": "Gold MV",
+      "name": "Gold MV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xcDdd562C0cF8c262AD8A5c1A476cdBBE114FcC28/logo.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
