@@ -88,11 +88,11 @@
     },
     {
       "chainId": 26483,
-      "address": "0xe8F622F26461FC21EC06eC2158B82500e9C77Dff",
-      "symbol": "SHBT",
-      "name": "Spirit Hills Bali Token",
+      "address": "0x0FB410280F80cf3f22Fc1Cf18Ea3bcca25aC0daE",
+      "symbol": "Shgen",
+      "name": "Spirit Hills Genesis",
       "decimals": 5,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xe8F622F26461FC21EC06eC2158B82500e9C77Dff/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0x0FB410280F80cf3f22Fc1Cf18Ea3bcca25aC0daE/logo.png"
     },
     {
       "chainId": 26483,
