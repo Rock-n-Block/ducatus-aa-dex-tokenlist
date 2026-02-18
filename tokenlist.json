@@ -115,7 +115,7 @@
       "address": "0xD0A83Ff11CB82798933522dC8B7dB89d05995956",
       "symbol": "Bullion",
       "name": "Bullion",
-      "decimals": 18,
+      "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xD0A83Ff11CB82798933522dC8B7dB89d05995956/logo.png"
     },
     {
