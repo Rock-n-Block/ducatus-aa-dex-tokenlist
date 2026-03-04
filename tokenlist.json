@@ -1,11 +1,7 @@
 {
   "name": "Ducatus AA+ DEX Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_testnet/0x0000000000000000000000000000000000000000/logo.png",
-  "keywords": [
-    "audited",
-    "verified",
-    "special tokens"
-  ],
+  "keywords": ["audited", "verified", "special tokens"],
   "tags": {
     "type": {
       "name": "tokenlist",
@@ -113,7 +109,7 @@
     {
       "chainId": 26483,
       "address": "0xD0A83Ff11CB82798933522dC8B7dB89d05995956",
-      "symbol": "Bullion",
+      "symbol": "BULT",
       "name": "Bullion",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/ducatus-aa-dex-tokenlist/master/assets/chains/ducx_mainnet/0xD0A83Ff11CB82798933522dC8B7dB89d05995956/logo.png"
